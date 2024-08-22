@@ -64,6 +64,7 @@ joblib = "1.4.2"
 jsonlines = "1.2.0"
 kiwisolver = "^1.4.5"
 tts = "^0.22.0"
+mutagen = "^1.47.0"
 
 
 [build-system]
