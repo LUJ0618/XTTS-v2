@@ -3,6 +3,9 @@ WadaSNR/
 *.pyc
 .DS_Store
 ./__init__.py
+
+*.wav
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
